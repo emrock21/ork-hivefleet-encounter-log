@@ -13,8 +13,9 @@ These fields are exclusive to Tyranids due to their bioform evolution and hive-m
 
 ## Contract
 
-Deployed on Base:
-`0x51776eDD02979B649F443F5F0cC76d737628D86B`
+Deployed on Base:  
+`0x51776eDD02979B649F443F5F0cC76d737628D86B`  
+https://basescan.org/address/0x51776edd02979b649f443f5f0cc76d737628d86b#code
 
 Main file:
 `contracts/HiveFleetEncounterLog.sol`
